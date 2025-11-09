@@ -5,7 +5,7 @@ int main()
 {
 
 int n1,n2;
-printf("in tmp!\n");
+printf("main try 2!\n");
 
 
 scanf("%d%d",&n1,&n2);

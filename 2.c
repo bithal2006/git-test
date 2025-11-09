@@ -5,7 +5,7 @@ int main()
 {
 
 int n1,n2;
-printf("main try 2!\n");
+printf("ahaaaaa!\n");
 
 
 scanf("%d%d",&n1,&n2);
